@@ -2,6 +2,14 @@
 # Install matplotlib pandas for generating visualization 
 # pip install matplotlib pandas
 
+# Mathematical Representation 
+# 
+
+# LaTeX notation for the equation  
+# \[ \text{closest\_age} = a_j \text{ where } j = \underset{i}{\text{arg min}} \, |a_i - \text{age}| \]
+# 
+# Python Code 
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

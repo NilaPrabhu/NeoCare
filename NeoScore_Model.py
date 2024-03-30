@@ -123,7 +123,7 @@ OUTPUT
 """
 
 # Conducted Five Experiments and Determined Final NeoScore 
-example_cases = [
+sample_subjects = [
     {'age_months': 6, 'length_cm': 60, 'weight_kg': 7, 'sex': 'Female', 'head_circumference_cm': 40},
     {'age_months': 18, 'length_cm': 75, 'weight_kg': 11, 'sex': 'Male', 'head_circumference_cm': 48},
     {'age_months': 10, 'length_cm': 68, 'weight_kg': 9, 'sex': 'Female', 'head_circumference_cm': 44},
@@ -138,7 +138,7 @@ def final_neoscore(neoscore_results):
 
 # Conducting the experiment with the example cases
 experiment_results = []
-for case in example_cases:
+for case in sample_subjects:
     neoscore_results = calculate_neoscore(case['age_months'], case['length_cm'], case['weight_kg'], 
                                           case['sex'], case['head_circumference_cm'], cdc_data)
     final_score = final_neoscore(neoscore_results)
