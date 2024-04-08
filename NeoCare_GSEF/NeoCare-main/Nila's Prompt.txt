@@ -1,0 +1,27 @@
+We aim to determine if a child has stunted growth and any other disorders based on the "Length for Age" of a Child. 
+
+The details are as follows: 
+
+The length of a child based on their age is important for measuring their growth. ﻿﻿Using a growth chart provides an easier way to monitor a child's nutritional growth. It confirms a child's physical & mental development and helps identify nutritional problems early in life, such as poor nutrition and over-nutrition disorders. 
+
+﻿﻿POOR NUTRITION DISORDERS: compromised immunity, cognitive problems, and stunted growth (shows that a child has failed to reach their growth potential, such as a result of disease, poor health, and malnutrition).
+
+OVER NUTRITION DISORDERS: obesity, diabetes, and metabolic syndrome later in life.
+
+CDC Data Table Male Babies 
+https://www.cdc.gov/growthcharts/html_charts/lenageinf.htm#males
+
+Data Table Female Babies 
+https://www.cdc.gov/growthcharts/html_charts/lenageinf.htm#females
+
+CDC Growth Chart Benchmark for Length for Age of a Child as follows: https://www.cdc.gov/growthcharts/data/set1clinical/cj41c017.pdf
+
+The curves on a grown chart demonstrate percentiles based on the measurements of children in a specific population who were studied to create the growth chart. The percentile curves of an individual fit are used to associate the child's rank relative to other children of similar Age and Sex.
+
+Shortness is defined as: for children < 2 years old: length < 5th percentile; for children 2-19 years: height-for-age < 5th percentile
+
+Create a predictive model in Python that inputs "Length for Age" of a Child and Sex, which compares against the CDC Data Table for Male and Female Babies and CDC Growth Chart to determine Shortness, stunted growth, and any other disorders specified above. 
+
+
+Certainly, here's the equation formatted as a mathematical expression:
+

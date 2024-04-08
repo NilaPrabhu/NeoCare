@@ -1,0 +1,30 @@
+I am an 8th Grader preparing for the upcoming science fair competition. I researched three syndromes for Neonatal Care: Turner syndrome, Prader-Willi syndrome, and microcephaly & macrocephaly. I outlined the details of each syndrome below.  
+
+Create a predictive model in Python that inputs "Length for Age" of a Child, Weight, and Sex, which compares against the CDC Data Table for Male and Female Babies for baseline (assume provided as CSV) to determine one or more of the syndrome specified above. 
+
+Turner syndrome:
+Inputs "Length for Age" of a Child, Weight, and Sex, which compares against the CDC Data Table for Male and Female Babies and CDC Growth Chart to determine Shortness, stunted growth, and any other disorders. 
+
+Shortness is defined as for children < 2 years old: length < 5th percentile; for children 2-19 years: height-for-age < 5th percentile.
+
+Prader-Willi syndrome: 
+The Prader-Willi syndrome often ends in obesity for victims of the disease. One disease closely linked to "Weight for Age" is the Prader-Willi syndrome. 
+
+It is a multisystem disorder characterized by neonatal hypotonia with poor weight gain without nutritional support, developmental delay, cognitive impairment, hypogonadism leading to genital hypoplasia and pubertal insufficiency, and a shot stature (if left untreated.)
+
+There are many symptoms present through infancy, such as a weak cry, poor feeding ability, weak muscle tone, and/or lethargy. As a subject with Prader-Willi syndrome ages, they may have almond-shaped eyes, a triangular mouth, a long, narrow head, short height, small hands and feet, and possibly underdeveloped genitals. 
+
+Behavioral symptoms include emotional outbursts, stubbornness, developmental issues, obsessive-compulsive behaviors, and sleep abnormalities. 
+
+Microcephaly & Macrocephaly: 
+Abnormal head sizes occur in diseases with damage to the nervous system. Damage to the nervous system caused by abnormal brain growth(atypical head circumference size for age) can lead to neuro dysfunctions if not treated.
+
+If head circumference size is abnormal, parental/familial head sizes should be measured to check for a hereditary trait, which could cancel out a disorder. A physical exam is warranted if the child's abnormality is not congruent with familial head sizes.
+
+The mother is advised to get a physical exam for the child if an abnormality is nonhereditary. Though there is no current treatment for these disorders, if detected early on, their symptoms can be mitigated more efficiently and effectively through time, precision, and a licensed professional's help.
+
+Microcephaly is characterized as a head size < 2 standard deviations(percentiles) away from the norm.
+
+Macrocephaly is characterized as a head size > 2 standard deviations(percentiles) away from the norm.
+
+
